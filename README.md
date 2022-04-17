@@ -1,5 +1,10 @@
 # Visit running website
 https://625c6ec4854d19159090968b--super-cool-site-by-1md3nd.netlify.app/
+![image](https://user-images.githubusercontent.com/61619621/163733118-80067445-a3e0-4b6c-a3f0-38907741db0e.png)
+![image](https://user-images.githubusercontent.com/61619621/163733173-28539e60-fcc7-44ce-b817-aab8dd2b0328.png)
+![image](https://user-images.githubusercontent.com/61619621/163733180-0b9c275f-fdbe-4d2b-9316-749fe846f6b4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
